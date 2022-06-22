@@ -1,6 +1,6 @@
 This App is designed for fictional comic book characters to log crystal finds in a database as part of their search for Kryptonite!
 
-To Create Ract App, type in your command line:
+To Create React App, type in your command line:
 
 npm start or npm run start
 
